@@ -11,8 +11,6 @@ Analizar, diseñar e implementar los algoritmos en el lenguaje de programación 
 - Construir algoritmos para solucionar problemas matemáticos, estadísticos y de investigación.
 - Analizar la lógica y herramientas de programación para su aplicación en la resolución de problemas.
 - Utilizar la programación modular y funciones.
-- Manejar las Estructuras de arreglos Unidimensional, Bidimensional y punteros.
-- Utilizar Estructuras o Registros y Archivos.
 
 ## Contenido ✍
 - Estructuras condicionales
